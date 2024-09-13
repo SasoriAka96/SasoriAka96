@@ -11,13 +11,14 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media1.tenor.com/m/haJOl9LcD00AAAAC/cat-cat-sticking-tongue-out.gif](https://media1.tenor.com/m/haJOl9LcD00AAAAC/cat-cat-sticking-tongue-out.gif"  />
+  <img height="400" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/SasoriAka96/SasoriAka96/output/snake.svg" alt="Snake animation" />
 
 ###
 
