@@ -9,27 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img height="400" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif"  />
 </div>
 
 ###
@@ -37,5 +18,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SasoriAka96/SasoriAka96/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SasoriAka96/count.svg?"  />
+</div>
 
 ###
