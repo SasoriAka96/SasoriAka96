@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif](https://media1.tenor.com/m/haJOl9LcD00AAAAC/cat-cat-sticking-tongue-out.gif"  />
+  <img height="400" src="https://media1.tenor.com/m/haJOl9LcD00AAAAC/cat-cat-sticking-tongue-out.gif](https://media1.tenor.com/m/haJOl9LcD00AAAAC/cat-cat-sticking-tongue-out.gif"  />
 </div>
 
 ###
