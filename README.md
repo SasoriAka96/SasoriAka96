@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media1.tenor.com/m/MFt1WVDeUhUAAAAC/smol-illegally-smol-cat.gif"  />
+  <img height="400" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif"  />
 </div>
 
 ###
