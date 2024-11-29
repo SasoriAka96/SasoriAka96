@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Nahikari and I'm a student, from Spain</h2>
+<h2 align="center">Hi 👋! </h2>
+
+# 😊 About me:
+<p>I´m Nahikari Vallejo, from Spain. I have experience as a graphic designer, but now I am in the process of studying for a Multiplatform Apps Development Associate Degree.</p>
 
 ###
 
