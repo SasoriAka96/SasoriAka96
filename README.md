@@ -2,6 +2,7 @@
 
 # 😊 About me:
 <p>I´m Nahikari Vallejo, from Spain. I have experience as a graphic designer, but now I am in the process of studying for a Multiplatform Apps Development Associate Degree.</p>
+  - Learning Python
   - Creating a 2D platform video game for the first time.
 
 ###
