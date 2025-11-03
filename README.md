@@ -21,10 +21,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media.tenor.com/OA7pfeGQLh8AAAAi/cat.gif"  />
-</div>
-
 ###
 
 <br clear="both">
