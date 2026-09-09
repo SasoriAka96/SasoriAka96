@@ -3,7 +3,7 @@
 # 😊 About me:
 I´m Nahikari Vallejo, from Spain. I have experience as a graphic designer, but my core background is in programming with a **higher degree in Multi-platform Application Development (DAM)** and a specialization in **Video Game and Virtual Reality Development**.
 
-Currently, I am doing my internship as a developer working with **PHP and JavaScript**. I am also strengthening my knowledge in **Unreal Engine**, starting with **Unity**, and studying **Japanese** at an academy.
+Currently, I work as a **Junior R&D Software Developer** in AI at RDT, focusing on backend development and working mainly with Python.. I am also strengthening my knowledge in **Unreal Engine**, starting with **Unity**, and studying **Japanese** at an academy.
 
 # 💻 Tech Stack:
 
